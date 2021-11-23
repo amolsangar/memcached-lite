@@ -145,3 +145,8 @@ Regular off-the-shelf memcached clients can also connect to the server.
 - Multiple copies of DB/Files for performance improvement
 - Better validation and error handling
 - Better backend system like Redis
+
+
+## Output Snippet
+
+<img src="https://github.com/amolsangar/memcached-lite-asangar/blob/master/images/img1.jpg" alt='Output Server'> <img src="https://github.com/amolsangar/memcached-lite-asangar/blob/master/images/img2.jpg" alt='Output Client'>
